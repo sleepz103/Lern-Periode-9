@@ -28,6 +28,35 @@ Txt: #674636 - normal text
 
 ## 07/03
 
-- [ ] Offline: Informationen über mich für die Webseite sammeln
+- [x] Offline: Informationen über mich für die Webseite sammeln
 - [ ] Druckt man auf ein Bild eines Projektes, nimmt es den Benutzer zur dieser Github Repo
-- [ ] 
+
+Ich habe meine Webseite wieder auf Papier gezeichnet, da ich vorherige Skizze zu Hause gelasen habe. Ich habe das Layout noch in Figma dargestellt. Wegen Zeitdruck bin ich auf Idee gekommen, ChatGPT zu fragen, ob es diesen Screenshot nachmachen kann. Es hat schon paar interessante CSS Eigenschaften gezeigt, aber hat es nicht gut nachgemacht. Ich habe also langsam mit 
+
+**11/03:**
+
+- [x] [The Only CSS Layout Guide You'll Ever Need - YouTube](https://www.youtube.com/watch?v=i1FeOOhNnwU)
+
+## 14/03
+
+- [ ] Ich werde noch eine Bewerbung anschauen, deren Unterlagen bewerten und Rückmeldung schicken.
+
+- [ ] Ich werde Grid in primary und secondary boxes für meine Bewerewebseite erstellen.
+
+- [ ] Ich werde Grid mit Elementen befüllen. Die, die einen Text brauchen, befülle ich mit Lorem Ipsum. 
+
+- [ ] Ich werde kleine Elemente für meine Webseite in Paint zeichnen.
+
+- Flexbox verwenden
+  
+  - display: flex
+  
+  - justify-content:
+  
+  - allign-items
+
+- css cheatsheet: https://yoksel.github.io
+
+- LinkedIn: Kein Banner- und Profilbild
+
+- Webseite: keine Info zum Projekten

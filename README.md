@@ -39,13 +39,13 @@ Ich habe meine Webseite wieder auf Papier gezeichnet, da ich vorherige Skizze zu
 
 ## 14/03
 
-- [ ] Ich werde noch eine Bewerbung anschauen, deren Unterlagen bewerten und Rückmeldung schicken.
+- [x] Ich werde noch eine Bewerbung anschauen, deren Unterlagen bewerten und Rückmeldung schicken.
 
-- [ ] Ich werde Grid in primary und secondary boxes für meine Bewerewebseite erstellen.
+- [x] ~~Ich werde Grid in primary und secondary boxes für meine Bewerewebseite erstellen.~~ Ich werde Flex Box nutzen um Content in Boxen zu Gestalten.
 
 - [ ] Ich werde Grid mit Elementen befüllen. Die, die einen Text brauchen, befülle ich mit Lorem Ipsum. 
 
-- [ ] Ich werde kleine Elemente für meine Webseite in Paint zeichnen.
+- [x] Ich werde kleine Elemente für meine Webseite in Paint zeichnen.
 
 - Flexbox verwenden
   
@@ -60,3 +60,17 @@ Ich habe meine Webseite wieder auf Papier gezeichnet, da ich vorherige Skizze zu
 - LinkedIn: Kein Banner- und Profilbild
 
 - Webseite: keine Info zum Projekten
+
+Heute habe ich an meine Webseite gearbeitet. Ich habe ein sehr Informationreiches Video angeschaut, der die Methoden für CSS erklärt. Und mit hilfe eines CSS Cheatsheet habe ich leichter meine Webseite weiter gebracht. Währendessen habe ich noch die letzte Bewerbung bewertet und abgesendet. Obwohl ich mir heute sehr müde fühle, bin ich der Meinung, dass ich viel gelerntes angewendet habe. (60)
+
+## 21/03
+
+- [ ] Ich erstelle den zweiten Teil meiner Webseite, indem ich das bis jetzt erstelle kopiere
+
+- [ ] Ich befästige der Header
+
+- [ ] Ich zeichne die Arrow und Punktennavigation in SVG Format
+
+- [ ] Für Box mit Projekten erstelle ich ein Grid und füge Beispiel Rechtecke ein.
+
+- [ ] Und daneben schreibe ich ein About Me.

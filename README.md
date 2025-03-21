@@ -74,3 +74,12 @@ Heute habe ich an meine Webseite gearbeitet. Ich habe ein sehr Informationreiche
 - [x] Für Box mit Projekten erstelle ich ein Grid und füge Beispiel Rechtecke ein.
 
 - [ ] Und daneben schreibe ich ein About Me.
+
+Heute habe ich wieder an meiner Website gearbeitet. Den Header zu erstellen war kein Problem. Dann habe ich angefangen, die Symbole zu zeichnen. Letztes Mal habe ich es versucht und auch heute konnte ich kein gutes Programm dafür finden, also habe ich sie aus dem Internet heruntergeladen und die Autoren und die Lizenz angegeben. Danach habe ich ein paar Änderungen an der Struktur vorgenommen. So konnte ich die Webseite mit neuen Abschnitten erweitern. Gegen Ende habe ich die Struktur für Projekte ausprobiert. Es ist noch nicht fertig, aber ich bin mit meinem Fortschritt zufrieden. (94)
+
+## 28/03
+
+- [ ] Project cards werden ein Bild haben und kleines Teil mit Name, wie in Youtube
+- [ ] Ich werde meine Beschreibung über meine Fähigkeiten schreiben
+- [ ] Die Webseite wird Responsive in dem ich die absolute Werte in relative umwandle
+- [ ] Wenn man Pfeilen drückt, wird man smooth nach unter/oben verschieben

@@ -65,12 +65,12 @@ Heute habe ich an meine Webseite gearbeitet. Ich habe ein sehr Informationreiche
 
 ## 21/03
 
-- [ ] Ich erstelle den zweiten Teil meiner Webseite, indem ich das bis jetzt erstelle kopiere
+- [x] Ich erstelle den zweiten Teil meiner Webseite, indem ich das bis jetzt erstelle kopiere
 
-- [ ] Ich befästige der Header
+- [x] Ich befästige der Header
 
-- [ ] Ich zeichne die Arrow und Punktennavigation in SVG Format
+- [x] Ich zeichne die Arrow und Punktennavigation in SVG Format
 
-- [ ] Für Box mit Projekten erstelle ich ein Grid und füge Beispiel Rechtecke ein.
+- [x] Für Box mit Projekten erstelle ich ein Grid und füge Beispiel Rechtecke ein.
 
 - [ ] Und daneben schreibe ich ein About Me.

@@ -79,7 +79,22 @@ Heute habe ich wieder an meiner Website gearbeitet. Den Header zu erstellen war 
 
 ## 28/03
 
-- [ ] Project cards werden ein Bild haben und kleines Teil mit Name, wie in Youtube
+- [x] Project cards werden ein Bild haben und kleines Teil mit Name, wie in Youtube
+- [ ] Ich werde meine Beschreibung über meine Fähigkeiten schreiben => Muss zum DSL verschoben werden
+- [x] Die Webseite wird Responsive in dem ich die absolute Werte in relative umwandle
+- [x] Wenn man Pfeilen drückt, wird man smooth nach unter/oben verschieben
+
+Heute habe ich viel geleistet. Am Anfang auf Papier habe ich die Projekt Cards dargestellt. Ich habe beschrieben, wie sie aussehen sollen. Dann habe ich aufgeschrieben, was meine Fähigkeiten und Stärken sind. Nachdem habe ich mit der Arbeit bekommen, und mit Ausprobieren habe ich die Cards mit absolutem Attribut erstellt. Dazu habe ich Ihre Farben verändert und ein Beispielfoto hochgeladen. Mit Hilfe eines YT-Videos habe ich auch gelernt, welche und wie man relative CSS-Werte benutzt. Und schnell gegen Ende habe ich auch ein Smooth Scrolling addiert und meine Webseite wirkt professionell. (93)
+
+## 04/04
+
 - [ ] Ich werde meine Beschreibung über meine Fähigkeiten schreiben
-- [ ] Die Webseite wird Responsive in dem ich die absolute Werte in relative umwandle
-- [ ] Wenn man Pfeilen drückt, wird man smooth nach unter/oben verschieben
+
+- [ ] Ich werde Bilder meiner Projekte und mich hochladen und Namen geben
+
+- [ ] Grosses Arbeitspaket: Ich erstelle letze Slide der Umgekehrt wie der zweite Aussieht:
+  
+  - [ ] Rechte seite gross geschrieben: Curriculum Vitae
+  - [ ] Links klein geschrieben:
+    - [ ] Schulen mit Daten
+    - [ ] Programmiersprachen

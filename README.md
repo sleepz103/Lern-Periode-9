@@ -90,7 +90,7 @@ Heute habe ich viel geleistet. Am Anfang auf Papier habe ich die Projekt Cards d
 
 - [x] Ich werde meine Beschreibung über meine Fähigkeiten schreiben
 
-- [ ] Ich werde Bilder meiner Projekte und mich hochladen und Namen geben
+- [x] Ich werde Bilder meiner Projekte hochladen und Namen geben
 
 - [ ] Grosses Arbeitspaket: Ich erstelle letze Slide der Umgekehrt wie der zweite Aussieht:
   

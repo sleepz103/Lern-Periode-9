@@ -88,7 +88,7 @@ Heute habe ich viel geleistet. Am Anfang auf Papier habe ich die Projekt Cards d
 
 ## 04/04
 
-- [ ] Ich werde meine Beschreibung über meine Fähigkeiten schreiben
+- [x] Ich werde meine Beschreibung über meine Fähigkeiten schreiben
 
 - [ ] Ich werde Bilder meiner Projekte und mich hochladen und Namen geben
 
